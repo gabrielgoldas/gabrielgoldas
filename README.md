@@ -1,4 +1,4 @@
-## Bem-vindo(a)! Eu sou o Gabriel Goldas
+![image](https://github.com/user-attachments/assets/7a2f8841-4061-4520-9f34-1d0af0c09e73)## Bem-vindo(a)! Eu sou o Gabriel Goldas
     
 <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -12,6 +12,7 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 </div>
  
  <br>
