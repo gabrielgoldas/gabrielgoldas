@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a2f8841-4061-4520-9f34-1d0af0c09e73)## Bem-vindo(a)! Eu sou o Gabriel Goldas
+## Bem-vindo(a)! Eu sou o Gabriel Goldas
     
 <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
