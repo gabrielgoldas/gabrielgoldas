@@ -43,7 +43,8 @@ Me chamo gabriel Goldas, tenho 25 anos e sou natural do Rio Grande do Sul. Atual
 <div style="display: inline_block">
     <img align="center" alt="Git" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
-</br>
+
+---
 
 ### 📊 Estatísticas
 <p>
