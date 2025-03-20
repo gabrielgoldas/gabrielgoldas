@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo gabriel Goldas, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio e estudante da Onebitcode 🤘🏼. Sou apaixonado por tecnologia e e Desenvolvimento Web e Android. 
+Me chamo Gabriel Goldas, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio e estudante da Onebitcode 🤘🏼. Sou apaixonado por tecnologia e e Desenvolvimento Web e Android. 
 <div> 
     <a href="https://www.linkedin.com/in/gabriel-goldas-39356926b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:gabriel.goldas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
