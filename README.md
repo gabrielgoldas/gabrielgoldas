@@ -1,6 +1,6 @@
 ## 👨🏼‍💻 Gabriel Goldas
 
-**`Desenvolvedor Fullstack`**
+**`Desenvolvedor Front-end`**
 
 Me chamo Gabriel Goldas, tenho 25 anos, casado com Emily ❤️ e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Além disso, sou estudante da Onebitcode 🤘🏼 Apaixonado por Desenvolvimento Web e Android. 
 <div> 
