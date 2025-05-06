@@ -14,7 +14,7 @@ Me chamo Gabriel Goldas, tenho 25 anos, casado com Emily ❤️ e natural do Rio
 
 ***`Android`*** 
 <div style="display: inline_block">
-    <img align="center" alt="Java" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" alt="Java" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
     <img align="center" alt="Kotlin" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Jatpack Compose" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg">
     <img align="center" alt="Firebase" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
@@ -29,13 +29,13 @@ Me chamo Gabriel Goldas, tenho 25 anos, casado com Emily ❤️ e natural do Rio
     <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">
-    <img align="center" alt="Next.js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Next.js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original-wordmark.svg">
 </div></br>    
 
 ***`Backend (Servidores e Lógica)`***
 <div style="display: inline_block">
     <img align="center" alt="Node.js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Postgresql" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Postgresql" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" alt="MySQL" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div></br>
 
