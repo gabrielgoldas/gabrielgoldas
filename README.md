@@ -14,34 +14,35 @@ Me chamo Gabriel Goldas, tenho 25 anos, casado com Emily ❤️ e natural do Rio
 
 ***`Android`*** 
 <div style="display: inline_block">
-    <img align="center" alt="Java" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
-    <img align="center" alt="Kotlin" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-    <img align="center" alt="Jatpack Compose" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg">
-    <img align="center" alt="Firebase" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
-    <img align="center" alt="SQLite" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+    <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+    <img align="center" alt="Kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+    <img align="center" alt="Jatpack Compose" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
+    <img align="center" alt="Firebase" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+    <img align="center" alt="SQLite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div></br>
 
 ***`Front-end (Web)`***
 <div style="display: inline_block">
-    <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="SASS" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-    <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg">
-    <img align="center" alt="Next.js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original-wordmark.svg">
+    <img align="center" alt="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img align="center" alt="SASS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+    <img align="center" alt="Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+    <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+    <img align="center" alt="Next.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 </div></br>    
 
 ***`Backend (Servidores e Lógica)`***
 <div style="display: inline_block">
-    <img align="center" alt="Node.js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Postgresql" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" alt="MySQL" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Postgresql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div></br>
 
 ***`Versionamento`***
 <div style="display: inline_block">
-    <img align="center" alt="Git" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
 ---
