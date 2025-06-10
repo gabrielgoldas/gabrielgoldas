@@ -4,7 +4,7 @@
 
 Me chamo Gabriel Goldas, tenho 25 anos, casado com Emily ❤️ e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Além disso, sou estudante da Onebitcode 🤘🏼 Apaixonado por Desenvolvimento Web e Android. 
 <div> 
-    <a href="https://www.linkedin.com/in/gabriel-goldas-39356926b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabrielgoldas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:gabriel.goldas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/gabriel_goldas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
@@ -54,7 +54,7 @@ Me chamo Gabriel Goldas, tenho 25 anos, casado com Emily ❤️ e natural do Rio
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=gabrielgoldas&show_icons=true&theme=radical&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=gabrielgoldas&show_icons=true&theme=radical"
     />
     <img
         align="left"
