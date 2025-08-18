@@ -13,7 +13,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,cypress,html,css,sass,tailwind" alt="Front-End Web"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgresql,mysql" alt="Back-End" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,prisma,postgresql,mysql" alt="Back-End" />
     <img src="https://skillicons.dev/icons?i=java,kotlin,firebase,sqlite" alt="Android"/>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Versionamento"/>   
     <img src="https://skillicons.dev/icons?i=azure" alt="Gerenciamento de Projetos"/>   
