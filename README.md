@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,firebase,sqlite,postgres" alt="Android"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,java,firebase,sqlite,postgres" alt="Android"/>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Versionamento"/>    
-    <img src="https://skillicons.dev/icons?i=mint,ubuntu" alt="Linux"/>    
+    <img src="https://skillicons.dev/icons?i=mint" alt="Linux"/>    
 </div>
