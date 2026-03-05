@@ -1,8 +1,6 @@
-<h2>👨🏼‍💻 Gabriel Goldas</h2>
+**`Desenvolvedor Mobile`**
 
-**`Desenvolvedor Full-stack`**
-
-<p>Me chamo Gabriel Goldas, tenho 25 anos, casado com Emily ❤️ e natural do Rio Grande do Sul. Sou estagiário na Lighthouse em Desenvolvimento Full Stack e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Além disso, sou estudante da Onebitcode 🤘🏼 Apaixonado por Desenvolvimento Web e Android. </p>
+<p>Me chamo Gabriel Goldas, tenho 25 anos, casado com Emily ❤️ e natural do Rio Grande do Sul. Sou Desenvolvedor Mobile Trainee na Creare Sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. </p>
 <div align="center"> 
     <a href="https://www.linkedin.com/in/gabrielgoldas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:gabriel.goldas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,11 +10,9 @@
 ---
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,cypress,html,css,sass,tailwind" alt="Front-End Web"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,prisma,postgresql,mysql" alt="Back-End" />
-    <img src="https://skillicons.dev/icons?i=java,kotlin,firebase,sqlite" alt="Android"/>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Versionamento"/>   
-    <img src="https://skillicons.dev/icons?i=azure" alt="Gerenciamento de Projetos"/>   
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,android,java,firebase,sqlite,postgres" alt="Android"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Versionamento"/>    
+    <img src="https://skillicons.dev/icons?i=mint,ubuntu" alt="Linux"/>    
 </div>
 
 ---
