@@ -10,15 +10,7 @@
 ---
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,android,java,firebase,sqlite,postgres" alt="Android"/>
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,firebase,sqlite,postgres" alt="Android"/>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Versionamento"/>    
     <img src="https://skillicons.dev/icons?i=mint,ubuntu" alt="Linux"/>    
-</div>
-
----
-
-<div align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielgoldas&show_icons=true&theme=radical"
-    />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoldas&theme=radical&layout=compact&langs_count=9" />
 </div>
