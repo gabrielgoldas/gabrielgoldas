@@ -47,9 +47,9 @@ Tenho grande interesse em <strong>arquitetura de software</strong>, <strong>cód
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielgoldas&show_icons=true&theme=transparent"/>
+<img heigh="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielgoldas&show_icons=true&theme=transparent"/>
 <img width="20"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoldas&layout=compact&theme=transparent"/>
+<img heigh="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgoldas&layout=compact&theme=transparent"/>
 
 </div>
 
