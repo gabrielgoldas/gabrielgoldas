@@ -11,9 +11,9 @@
 ---
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,flutter,java,firebase,sqlite,postgres" alt="Android"/>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Versionamento"/>    
-    <img src="https://skillicons.dev/icons?i=mint" alt="Linux"/>    
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,java,firebase,sqlite,postgres&theme=light" alt="Android"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=light" alt="Versionamento"/>    
+    <img src="https://skillicons.dev/icons?i=mint&theme=light" alt="Linux"/>    
 </div>
 
 ---
